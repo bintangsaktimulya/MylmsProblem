@@ -1,4 +1,4 @@
-﻿Student studentbwa = new Student("Rib", "12345@gmail.com", "112233", "Student", "XPG3");
+﻿Student studentbwa = new Student("Rib", "123456@gmail.com", "112233", "Student", "XPG12");
 Teacher teacherbwa = new Teacher("hib", "123445@gmail.com", "12212233", "Teacher", "Math");
 studentbwa.display_info();
 teacherbwa.display_info();
